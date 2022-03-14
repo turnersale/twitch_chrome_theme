@@ -1,0 +1,40 @@
+{
+	"name": "Twitch Purple Theme",
+	"description": "Slack and Twitch inspired theme. Also can be found for VSCode.",
+	"manifest_version": 2,
+	"version": "0.0.1",
+	"theme": {
+		"colors": {
+			"frame": [100, 65, 164],
+			"toolbar": [125, 91, 190],
+			"background_tab": [154, 127, 204],
+			"tab_background_text": [255, 255, 255],
+			"tab_text": [255, 255, 255],
+			"toolbar_button_icon": [165, 153, 233],
+			"bookmark_text": [255, 255, 255],
+
+
+			"frame_inactive": [154, 127, 204],
+			"background_tab_inactive": [154, 127, 204],
+			"tab_background_text_inactive": [255, 255, 255],
+
+
+			"ntp_background": [50, 50, 100],
+			
+			"ntp_text": [165, 153, 233],
+			
+			
+
+
+			"background_tab_incognito": [50, 50, 100],
+			"background_tab_incognito_inactive": [50, 52, 100],
+			"frame_incognito": [50, 50, 105],
+			"frame_incognito_inactive": [50, 50, 95],
+			"tab_background_text_incognito": [165, 153, 233],
+			"tab_background_text_incognito_inactive": [165, 153, 233]
+		},
+		"tints": {
+			"buttons": [0.69, 0.65, 0.76]
+		}
+	}
+}
